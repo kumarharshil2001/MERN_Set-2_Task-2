@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MERN_Set-2_Task-2/static/css/main.2f3f4aff.chunk.css",
+    "main.js": "/MERN_Set-2_Task-2/static/js/main.b24c4d33.chunk.js",
+    "main.js.map": "/MERN_Set-2_Task-2/static/js/main.b24c4d33.chunk.js.map",
+    "runtime-main.js": "/MERN_Set-2_Task-2/static/js/runtime-main.5868ef42.js",
+    "runtime-main.js.map": "/MERN_Set-2_Task-2/static/js/runtime-main.5868ef42.js.map",
+    "static/js/2.772c2dd3.chunk.js": "/MERN_Set-2_Task-2/static/js/2.772c2dd3.chunk.js",
+    "static/js/2.772c2dd3.chunk.js.map": "/MERN_Set-2_Task-2/static/js/2.772c2dd3.chunk.js.map",
+    "index.html": "/MERN_Set-2_Task-2/index.html",
+    "precache-manifest.e9c030404e0e02e7471f0af7cbd8f8e9.js": "/MERN_Set-2_Task-2/precache-manifest.e9c030404e0e02e7471f0af7cbd8f8e9.js",
+    "service-worker.js": "/MERN_Set-2_Task-2/service-worker.js",
+    "static/css/main.2f3f4aff.chunk.css.map": "/MERN_Set-2_Task-2/static/css/main.2f3f4aff.chunk.css.map",
+    "static/js/2.772c2dd3.chunk.js.LICENSE.txt": "/MERN_Set-2_Task-2/static/js/2.772c2dd3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5868ef42.js",
+    "static/js/2.772c2dd3.chunk.js",
+    "static/css/main.2f3f4aff.chunk.css",
+    "static/js/main.b24c4d33.chunk.js"
+  ]
+}
